@@ -7,9 +7,8 @@
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=neorajat97&style=social&url=https%3A%2F%2Ftwitter.com%2Fneorajat97)
 [![Linkedin: rajatgarg97](https://img.shields.io/badge/-rajatgarg97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajatgarg97/)](https://www.linkedin.com/in/rajatgarg97/)
+![GitHub followers](https://img.shields.io/github/followers/RajatGarg97?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://rajatgarg.tech/)](http://rajatgarg.tech/)
-
-<!-- CV -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RajatGarg97.visitor-badge)
 
@@ -45,5 +44,9 @@
 <a href="https://github.com/RajatGarg97/RajatGarg97">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RajatGarg97&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Rajat's GitHub Stats" />
 </a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RajatGarg97&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to say <b>Hi, I'll be more than happy!</b> :)</em>
