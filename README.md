@@ -47,6 +47,6 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RajatGarg97&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RajatGarg97&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to say <b>Hi, I'll be more than happy!</b> :)</em>
