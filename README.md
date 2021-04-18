@@ -1,4 +1,4 @@
-## [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rajat](http://rajatgarg.tech/)
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rajat](http://rajatgarg.tech/)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -7,8 +7,8 @@
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=neorajat97&style=social&url=https%3A%2F%2Ftwitter.com%2Fneorajat97)
 [![Linkedin: rajatgarg97](https://img.shields.io/badge/-rajatgarg97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajatgarg97/)](https://www.linkedin.com/in/rajatgarg97/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://rajatgarg.tech/)](http://rajatgarg.tech/)
 
-<!-- Website -->
 <!-- CV -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RajatGarg97.visitor-badge)
