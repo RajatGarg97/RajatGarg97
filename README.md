@@ -8,13 +8,19 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=neorajat97&style=social&url=https%3A%2F%2Ftwitter.com%2Fneorajat97)
 [![Linkedin: rajatgarg97](https://img.shields.io/badge/-rajatgarg97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajatgarg97/)](https://www.linkedin.com/in/rajatgarg97/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RajatGarg97.visitor-badge)
-![YouTube Video Views](https://img.shields.io/youtube/views/AkY2TpvDGUo?label=Invisibility%20Cloak&style=social)
+
+<!-- ![YouTube Video Views](https://img.shields.io/youtube/views/AkY2TpvDGUo?label=Invisibility%20Cloak&style=social) -->
 
 ### My Tech Toolbox 🧰
 
 <p align="left">
+<!-- Java -->
+<!-- DSA -->
+<!-- Javascript -->
+<!-- Nodejs -->
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<!-- Kubernetes -->
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 </p>
 
@@ -23,10 +29,11 @@
 - My primary coding language: Java
 - Passionate for learning & exploring new Tech.
 - I am working on establishing myself as a brand.
-- 🏠 Hogwartz House: Griffindor
 
-  <!-- <details>
-  <summary>📊 Github Stats</summary>
+### Checkout my youtube video here ![YouTube Video Views](https://img.shields.io/youtube/views/AkY2TpvDGUo?label=Invisibility%20Cloak&style=social)
+
+    <!-- <details>
+    <summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RajatGarg97&show_icons=true&theme=gotham" alt="Rajat Garg | Stats" />
 </details> -->
