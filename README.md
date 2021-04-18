@@ -18,11 +18,11 @@
 
 <p align="left">
 <!-- Java -->
-<!-- DSA -->
-<!-- Javascript -->
-<!-- Nodejs -->
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<!-- bitbucket -->
+<!-- Javascript -->
+<!-- Nodejs -->
 <!-- Kubernetes -->
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 </p>
@@ -44,6 +44,8 @@
 <a href="https://github.com/RajatGarg97/RajatGarg97">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RajatGarg97&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Rajat's GitHub Stats" />
 </a>
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=RajatGarg97&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 🏆 GitHub Trophies
 
