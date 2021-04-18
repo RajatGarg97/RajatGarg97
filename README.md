@@ -2,6 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+<p><em>Software Engineer at <a href="https://www.tcs.com/">Tata Consultancy Services</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
 ![Twitter URL](https://img.shields.io/twitter/url?label=neorajat97&style=social&url=https%3A%2F%2Ftwitter.com%2Fneorajat97)
 [![Linkedin: rajatgarg97](https://img.shields.io/badge/-rajatgarg97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajatgarg97/)](https://www.linkedin.com/in/rajatgarg97/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RajatGarg97.visitor-badge)
@@ -30,9 +33,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/RajatGarg97/RajatGarg97">
+<!-- <a href="https://github.com/RajatGarg97/RajatGarg97">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatGarg97&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Rajat's GitHub Stats" />
-</a>
+</a> -->
 
 <a href="https://github.com/RajatGarg97/RajatGarg97">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RajatGarg97&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Rajat's GitHub Stats" />
