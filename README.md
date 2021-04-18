@@ -8,11 +8,8 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=neorajat97&style=social&url=https%3A%2F%2Ftwitter.com%2Fneorajat97)
 [![Linkedin: rajatgarg97](https://img.shields.io/badge/-rajatgarg97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajatgarg97/)](https://www.linkedin.com/in/rajatgarg97/)
 ![GitHub followers](https://img.shields.io/github/followers/RajatGarg97?label=Follow&style=social)
-
-<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://rajatgarg.tech/)](http://rajatgarg.tech/) -->
-
 [![Website](https://img.shields.io/badge/rajatgarg.tech--green?style=social&logo=google%20chrome)](http://rajatgarg.tech/)
-[![Resume](https://img.shields.io/badge/resume--green?style=flat-square&logo=read-the-docs)](https://drive.google.com/file/d/1tyAMU854Hs3zaFMv746Su3YBkyuDsm0E/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/resume--green?style=social&logo=read-the-docs)](https://drive.google.com/file/d/1tyAMU854Hs3zaFMv746Su3YBkyuDsm0E/view?usp=sharing)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RajatGarg97.visitor-badge)
 
 <!-- ![YouTube Video Views](https://img.shields.io/youtube/views/AkY2TpvDGUo?label=Invisibility%20Cloak&style=social) -->
