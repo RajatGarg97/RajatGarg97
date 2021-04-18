@@ -32,12 +32,6 @@
 
 ### Checkout my youtube video here ![YouTube Video Views](https://img.shields.io/youtube/views/AkY2TpvDGUo?label=Invisibility%20Cloak&style=social)
 
-    <!-- <details>
-    <summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RajatGarg97&show_icons=true&theme=gotham" alt="Rajat Garg | Stats" />
-</details> -->
-
 ## &#x1f4c8; GitHub Stats
 
 <!-- <a href="https://github.com/RajatGarg97/RajatGarg97">
