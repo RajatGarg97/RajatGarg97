@@ -17,7 +17,7 @@
 <p align="left">
 <!-- Java -->
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" alt= "java" width="40" height="40"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python_512x512.png" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <!-- bitbucket -->
 <!-- Javascript -->
