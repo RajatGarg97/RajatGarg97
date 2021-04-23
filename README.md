@@ -17,25 +17,25 @@
 <p align="left">
 <!-- Java -->
 <div title="Java">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" alt= "java" width="40" height="40" style="margin: 0px 10px"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" alt= "java" width="40" height="40" style="margin: 0px 5px"/>
 </div>
 
 <div title="Python">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python_512x512.png" alt="python" width="40" height="40" style="margin: 0px 10px"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python_512x512.png" alt="python" width="40" height="40" style="margin: 0px 5px"/>
 </div>
 
 <div title="Git">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 0px 10px"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 0px 5px"/>
 </div>
 
 <div title="Bitbucket">
 <!-- bitbucket -->
-<img src="https://cdn.cdnlogo.com/logos/b/89/bitbucket-blue.svg" alt="bitbucket" width="40" height="40" style="margin: 0px 10px"/>
+<img src="https://cdn.cdnlogo.com/logos/b/89/bitbucket-blue.svg" alt="bitbucket" width="40" height="40" style="margin: 0px 5px"/>
 </div>
 
 <!-- Javascript -->
 <div title="JavaScript">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_512x512.png" alt="javascript" width="40" height="40" style="margin: 0px 10px"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_512x512.png" alt="javascript" width="40" height="40" style="margin: 0px 5px"/>
 </div>
 
 <!-- <div title="NodeJS"> -->
@@ -44,12 +44,12 @@
 
 <div title="Kubernetes">
 <!-- Kubernetes -->
-<img src="https://cdnjs.cloudflare.com/ajax/libs/patternfly/4.0.0-rc.1/img/kubernetes-Logo.svg" alt="Kubernetes" width="40" height="40" style="margin: 0px 10px"/>
+<img src="https://cdnjs.cloudflare.com/ajax/libs/patternfly/4.0.0-rc.1/img/kubernetes-Logo.svg" alt="Kubernetes" width="40" height="40" style="margin: 0px 5px"/>
 </div>
 
 <div title="Docker">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40" 
-style="margin: 0px 10px"/>
+style="margin: 0px 5px"/>
 </div>
 </p>
 
