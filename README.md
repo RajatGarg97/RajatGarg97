@@ -1,11 +1,16 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rajat](https://rajatgarg.netlify.app/)
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+# Hey 👋 I am [Rajat](https://linktr.ee/RajatGarg97)
 
 <p><em>A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter URL](https://img.shields.io/twitter/url?label=neorajat97&style=social&url=https%3A%2F%2Ftwitter.com%2Fneorajat97)
+
+<p align='left'>I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Backend Developer 📱 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
+
+<!-- <img style='right;' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+
+
+
+![Twitter URL](https://img.shields.io/twitter/url?label=rajatgarg_97&style=social&url=https%3A%2F%2Ftwitter.com%2Frajatgarg_97)
 [![Linkedin: rajatgarg97](https://img.shields.io/badge/-rajatgarg97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajatgarg97/)](https://www.linkedin.com/in/rajatgarg97/)
 ![](https://img.shields.io/github/followers/RajatGarg97?label=Follow&style=social)
 ![Hits](https://visitor-badge.glitch.me/badge?page_id=RajatGarg97.visitor-badge)
