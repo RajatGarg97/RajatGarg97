@@ -2,7 +2,7 @@
 
 <p><em>A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
+<img style="center" alt="GIF" src="https://github.com/RajatGarg97/RajatGarg97/blob/master/media/techstack.gif" width="360px"/>
 
 <p align='left'>I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Backend Developer 📱 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
 
