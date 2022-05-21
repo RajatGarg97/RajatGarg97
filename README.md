@@ -15,7 +15,7 @@
 ![](https://img.shields.io/github/followers/RajatGarg97?label=Follow&style=social)
 ![Hits](https://visitor-badge.glitch.me/badge?page_id=RajatGarg97.visitor-badge)
 [![Website](https://img.shields.io/badge/myPortfolio--green?style=social&logo=google%20chrome)](https://rajatgarg.netlify.app/)
-[![Resume](https://img.shields.io/badge/CV--green?style=social&logo=read-the-docs)](https://linktr.ee/RajatGarg97)
+[![Resume](https://img.shields.io/badge/Resume--green?style=social&logo=read-the-docs)](https://drive.google.com/file/d/1qr_to9GHRZY7pCcOCu79TTSazmahdyIQ/view)
 
 ### My Tech Toolbox 🧰
 
